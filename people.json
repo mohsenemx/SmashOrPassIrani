@@ -1,0 +1,67 @@
+[
+  {
+    "name": "حسن روحانی",
+    "image": "./images/rouhani.jpg",
+    "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "جواد ظریف",
+    "image": "./images/zarif.jpg",
+    "description": "وزیر امور خارجه سابق"
+  },
+  {
+    "name": "ابراهیم رییسی",
+    "image": "./images/raisi.jpg",
+    "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "عباس عراقچی",
+    "image": "./images/araqchi.jpg",
+    "description": "وزیر امور خارجه "
+  },
+  {
+    "name": "مسعود پزشکیان",
+    "image": "./images/pezeshkian.jpg",
+    "description": "رییس جمهور ایران"
+  },
+  {
+    "name": "محمدباقر قالیباف",
+    "image": "./images/qalibaf.jpg",
+    "description": "رییس مجلس ایران"
+  },
+  {
+    "name": "علی لاریجانی",
+    "image": "./images/larijani1.jpg",
+    "description": "رییس شورای عالی امنیت ملی"
+  },
+  {
+    "name": "محسن یگانه",
+    "image": "./images/yeganeh.jpg",
+    "description": "خواننده"
+  },
+  {
+    "name": "بهرام رادان",
+    "image": "./images/radan.webp",
+    "description": "بازیگر"
+  },
+  {
+    "name": "مهران مدیری",
+    "image": "./images/modiri.jpg",
+    "description": "بازیگر / کارگردان"
+  },
+  {
+    "name": "نوید محمدزاده",
+    "image": "./images/mohamadzadeh.jpg",
+    "description": "بازیگر"
+  },
+  {
+    "name": "بهنام بانی",
+    "image": "./images/bani.jpeg",
+    "description": "خواننده"
+  },
+  {
+    "name": "محمود احمدی‌نژاد",
+    "image": "./images/ahmadinejad.jpg",
+    "description": "رییس جمهور سابق ایران"
+  }
+]
