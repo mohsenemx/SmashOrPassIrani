@@ -102,6 +102,9 @@ async function loadData() {
     questions = await qRes.json();
     people = await pRes.json();
     render();
+    document.getElementById(
+      "count"
+    ).innerHTML = `تعداد افراد: ${people.length} <br> تعداد سوال: ${questions.length}`;
   } catch (err) {
     qEl.textContent = "خطا در بارگذاری داده‌ها. با یک سرور HTTP اجرا کنید.";
     console.error(err);

@@ -63,5 +63,65 @@
     "name": "محمود احمدی‌نژاد",
     "image": "./images/ahmadinejad.jpg",
     "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "جوسف استالین",
+    "image": "./images/stalin.jpg",
+    "description": "رهبر اتحاد جماهیر شوروی"
+  },
+  {
+    "name": "آدولف هیتلر",
+    "image": "./images/adolf.jpg",
+    "description": "رهبر حذب نازی"
+  },
+  {
+    "name": "دونالد ترامپ",
+    "image": "./images/trump.jpg",
+    "description": "رییس جمهور آمریکا"
+  },
+  {
+    "name": "ولادیمیر پوتین",
+    "image": "./images/putin.jpg",
+    "description": "رییس جمهور روسیه"
+  },
+  {
+    "name": "بابک زنجانی",
+    "image": "./images/zanjani.jpg",
+    "description": "پولدار"
+  },
+  {
+    "name": "بنیامین نتانیاهو",
+    "image": "./images/netanyahu.jpg",
+    "description": "نخست وزیر اسراییل"
+  },
+  {
+    "name": "احمد الشرع",
+    "image": "./images/golani.jpg",
+    "description": "رییس جمهور سوریه / رهبر سابق القاعده"
+  },
+  {
+    "name": "بشار الاسد",
+    "image": "./images/bashar.jpg",
+    "description": "رییس جمهور سابق سوریه"
+  },
+  {
+    "name": "صدام حسین",
+    "image": "./images/saddam.jpg",
+    "description": "رییس جمهور سابق عراق"
+  },
+  {
+    "name": "الهام علیف",
+    "image": "./images/aliyev.jpg",
+    "description": "رییس جمهور آذربایجان"
+  },
+  {
+    "name": "رجب طیب اردوغان",
+    "image": "./images/erdogan.jpg",
+    "description": "رییس جمهور ترکیه"
+  },
+  {
+    "name": "هبت‌الله آخندزاده",
+    "image": "./images/taliban.jpg",
+    "description": "رهبر طالبان"
   }
 ]
