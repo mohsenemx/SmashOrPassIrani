@@ -72,7 +72,7 @@
   {
     "name": "آدولف هیتلر",
     "image": "./images/adolf.jpg",
-    "description": "رهبر حذب نازی"
+    "description": "رهبر حزب نازی"
   },
   {
     "name": "دونالد ترامپ",
@@ -107,7 +107,7 @@
   {
     "name": "صدام حسین",
     "image": "./images/saddam.jpg",
-    "description": "رییس جمهور سابق عراق"
+    "description": "رهبر سابق حزب بعث عراق"
   },
   {
     "name": "الهام علیف",
@@ -123,5 +123,30 @@
     "name": "هبت‌الله آخندزاده",
     "image": "./images/taliban.jpg",
     "description": "رهبر طالبان"
+  },
+  {
+    "name": "محسن رضایی",
+    "image": "./images/rezaei.jpg",
+    "description": "کسی نمیدونه ولی سرلشکر سپاه"
+  },
+  {
+    "name": "کیم جونگ اون",
+    "image": "./images/kim.jpg",
+    "description": "رهبر کره شمالی"
+  },
+  {
+    "name": "شی جینپینگ",
+    "image": "./images/xi.webp",
+    "description": "رئیس جمهور چین"
+  },
+  {
+    "name": "اسامه بن لادن",
+    "image": "./images/osama.jpg",
+    "description": "رهبر سابق القاعده"
+  },
+  {
+    "name": "رضا صادقی",
+    "image": "./images/sadeghi.jpg",
+    "description": "خواننده"
   }
 ]
