@@ -148,5 +148,10 @@
     "name": "رضا صادقی",
     "image": "./images/sadeghi.jpg",
     "description": "خواننده"
+  },
+  {
+    "name": "محمد خاتمی",
+    "image": "./images/khatami.jpg",
+    "description": "رییس جمهور سابق ایران"
   }
 ]
