@@ -35,31 +35,6 @@
     "description": "رییس شورای عالی امنیت ملی"
   },
   {
-    "name": "محسن یگانه",
-    "image": "./images/yeganeh.jpg",
-    "description": "خواننده"
-  },
-  {
-    "name": "بهرام رادان",
-    "image": "./images/radan.webp",
-    "description": "بازیگر"
-  },
-  {
-    "name": "مهران مدیری",
-    "image": "./images/modiri.jpg",
-    "description": "بازیگر / کارگردان"
-  },
-  {
-    "name": "نوید محمدزاده",
-    "image": "./images/mohamadzadeh.jpg",
-    "description": "بازیگر"
-  },
-  {
-    "name": "بهنام بانی",
-    "image": "./images/bani.jpeg",
-    "description": "خواننده"
-  },
-  {
     "name": "محمود احمدی‌نژاد",
     "image": "./images/ahmadinejad.jpg",
     "description": "رییس جمهور سابق ایران"
@@ -145,13 +120,33 @@
     "description": "رهبر سابق القاعده"
   },
   {
-    "name": "رضا صادقی",
-    "image": "./images/sadeghi.jpg",
-    "description": "خواننده"
-  },
-  {
     "name": "محمد خاتمی",
     "image": "./images/khatami.jpg",
+    "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "باراک اوباما",
+    "image": "./images/obama.jpg",
+    "description": "رییس جمهور سابق آمریکا"
+  },
+  {
+    "name": "جو بایدن",
+    "image": "./images/biden.jpg",
+    "description": "رییس جمهور سابق آمریکا"
+  },
+  {
+    "name": "علی شمخانی",
+    "image": "./images/shamkhani.jpg",
+    "description": "مشاور سیاسی / فرمانده نطامی"
+  },
+  {
+    "name": "ابوالحسن بنی‌صدر",
+    "image": "./images/banisadr.jpg",
+    "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "جو بایدن",
+    "image": "./images/rafsanjani.jpg",
     "description": "رییس جمهور سابق ایران"
   }
 ]
