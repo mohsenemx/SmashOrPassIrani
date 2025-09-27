@@ -148,5 +148,20 @@
     "name": "جو بایدن",
     "image": "./images/rafsanjani.jpg",
     "description": "رییس جمهور سابق ایران"
+  },
+  {
+    "name": "محمد بن سلمان",
+    "image": "./images/binsalman.jpg",
+    "description": "نخست وزیر عربستان سعودی"
+  },
+  {
+    "name": "جورج دابلیو بوش",
+    "image": "./images/bushw.jpeg",
+    "description": "رییس جمهور سابق آمریکا"
+  },
+  {
+    "name": "فیدل کاسترو",
+    "image": "./images/castro.jpg",
+    "description": "رهبر سابق کوبا"
   }
 ]
